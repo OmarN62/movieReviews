@@ -1,0 +1,10 @@
+.moviePoster {
+    width: 500px;
+    height: 500px;
+    border-radius: 10px;
+    display: block; 
+    margin-bottom: 10px;
+}
+body {
+    background-color: lightblue;
+}
